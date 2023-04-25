@@ -1,0 +1,15 @@
+/home/abvirk/Projects/jenkintest/bin/Debug/net7.0/jenkintest
+/home/abvirk/Projects/jenkintest/bin/Debug/net7.0/jenkintest.deps.json
+/home/abvirk/Projects/jenkintest/bin/Debug/net7.0/jenkintest.runtimeconfig.json
+/home/abvirk/Projects/jenkintest/bin/Debug/net7.0/jenkintest.dll
+/home/abvirk/Projects/jenkintest/bin/Debug/net7.0/jenkintest.pdb
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.csproj.AssemblyReference.cache
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.GeneratedMSBuildEditorConfig.editorconfig
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.AssemblyInfoInputs.cache
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.AssemblyInfo.cs
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.csproj.CoreCompileInputs.cache
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.dll
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/refint/jenkintest.dll
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.pdb
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/jenkintest.genruntimeconfig.cache
+/home/abvirk/Projects/jenkintest/obj/Debug/net7.0/ref/jenkintest.dll

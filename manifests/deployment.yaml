@@ -1,21 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: jenkins-console-app
-  labels:
-    app: jenkins-console-app
+  name: myapp
 spec:
-  replicas: 1
   selector:
     matchLabels:
-      app: jenkins-console-app
+      app: myapp
+  replicas: 2
   template:
     metadata:
       labels:
-        app: jenkins-console-app
+        app: myapp
     spec:
       containers:
-      - name: jenkins-console-app
-        image: abvirk/jenkins-console:replaceImageTag
+      - name: myapp
+        image: abvirk/jenkins-console:1
         ports:
         - containerPort: 8080
